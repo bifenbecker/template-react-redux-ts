@@ -17,6 +17,6 @@ export const [FTName]Slice = createSlice({
 })
 
 // Action creators are generated for each case reducer function
-export const {  } = [FTName]Slice.actions
+export const [FTName]Actions = [FTName]Slice.actions
 
-export default [FTName]Slice.reducer
+export const [FTName]Reducer = [FTName]Slice.reducer
